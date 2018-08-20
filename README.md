@@ -1,4 +1,4 @@
-# WEB SCRaPING python imagenes
+# WEB SCRaPING python text
 
 ## Descripcion del idioma
 Descarga imagenes desde python 
